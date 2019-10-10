@@ -1,0 +1,5 @@
+Rotor 1: ehid r0z3k928qf7y5tgpu4cwxmb61ovlansj 3 primeras letras del rotor 2: jtg
+3 primeras letras del rotor 3: e69
+Filas: 2, Columnas: 19
+Longitud del mensaje encriptado de Vigenere: 69
+Claves del codigo Afin: 10 25

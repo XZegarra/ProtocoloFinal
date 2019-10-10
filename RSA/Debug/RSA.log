@@ -1,0 +1,17 @@
+﻿  protocolo.cpp
+C:\Universidad\Encriptados\RSA\codigoAfin.h(27,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\codigoAfin.h(29,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\escitala.h(27,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\escitala.h(29,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\vernan.h(26,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\vernan.h(28,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\codigoEnigma.h(27,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\codigoEnigma.h(29,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\vigenere.h(29,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\vigenere.h(31,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\protocolo.h(32,24): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\protocolo.h(34,26): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\protocolo.cpp(17,19): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\protocolo.cpp(97,20): warning C4018:  '<': no coinciden signed/unsigned
+C:\Universidad\Encriptados\RSA\protocolo.cpp(104,19): warning C4018:  '<': no coinciden signed/unsigned
+  RSA.vcxproj -> C:\Universidad\Encriptados\RSA\Debug\RSA.exe
